@@ -1,11 +1,15 @@
 import React from 'react';
-import { Text, View } from 'react-native';
+import { Text, View, Image, StyleSheet } from 'react-native';
 
 const Header = (props) => {
     const { textStyle, viewStyle } = styles;
 
     return (
-        <View style={viewStyle}>    
+        <View style={viewStyle}> 
+        <Image
+      style={StyleSheet.absoluteFill}
+      source={require('./flag.jpeg')}
+    />   
             <Text style={textStyle}>{props.headerText}</Text>
         </View>    
     );
@@ -24,9 +28,20 @@ const styles = {
         elevation: 2
     },
     textStyle: {
-        color: 'white',
-        fontSize: 30
+        paddingTop: 38,
+        color: 'black',
+        fontSize: 60,
+        alignItems: 'center',
+        fontWeight: ('bold'),
+        
     },
+    absoluteFill: {
+        justifyContent: 'space-around',
+        width: null,
+        height: null,
+        resizeMode: 'stretch',
+        opacity: 0.9
+    }
 };
 
 export default Header;

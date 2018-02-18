@@ -11,17 +11,17 @@ export default class AddressInput extends Component {
     return (
       <View>
 
-      <TextInput
-      placeholder = 'Please enter your Address'
+      <TextInput 
+      placeholder = 'Zip Code, State, or Address'
       keyboardType = 'default'
-      onChangeText = {(text)=> this.onChanged(text)}
-      value = {this.state.myAddress}
+      onChangeText = {(text)=> this.onChangeText(text)}
+      value = {this.state.AddressInput}
         
     style={{
       marginTop: 200,
       marginBottom: 20,
       height: 50,
-      width:350, 
+      width: 350, 
       borderColor: 'grey', 
       borderWidth: 3,
       borderRadius: 20,
@@ -30,14 +30,13 @@ export default class AddressInput extends Component {
       alignSelf: 'center',
       fontSize: 20,
       }}
-    onChangeText={(text) => this.setState({myAddress: text})}
-        
-      />
-      
+
+    onChangeText={(text) => this.setState({AddressInput: text})}
+        />
+
       </View>
+  
     );
+    
   }
 }
-
-
-      
