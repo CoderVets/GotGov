@@ -7,8 +7,9 @@ const Header = (props) => {
     return (
         <View style={viewStyle}> 
         <Image
+        
       style={StyleSheet.absoluteFill}
-      source={require('./flag.jpeg')}
+      source={require('./test1.png')}
     />   
             <Text style={textStyle}>{props.headerText}</Text>
         </View>    
@@ -26,6 +27,7 @@ const styles = {
         shadowOffset: { width: 0, height: 2 },
         shadowOpacity: 0.2,
         elevation: 2
+    
     },
     textStyle: {
         paddingTop: 38,
@@ -40,7 +42,7 @@ const styles = {
         width: null,
         height: null,
         resizeMode: 'stretch',
-        opacity: 0.9
+        opacity: .1
     }
 };
 
