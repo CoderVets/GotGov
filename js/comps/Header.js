@@ -9,7 +9,7 @@ const Header = (props) => {
         <Image
         
       style={StyleSheet.absoluteFill}
-      source={require('./test1.png')}
+      source={require('./flag.jpeg')}
     />   
             <Text style={textStyle}>{props.headerText}</Text>
         </View>    
