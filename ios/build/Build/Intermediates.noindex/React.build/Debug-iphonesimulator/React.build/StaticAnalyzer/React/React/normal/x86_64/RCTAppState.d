@@ -1,14 +1,14 @@
 dependencies: \
-  /Users/Eric/GotGov/node_modules/react-native/React/Modules/RCTAppState.m \
-  /Users/Eric/GotGov/node_modules/react-native/React/Modules/RCTAppState.h \
-  /Users/Eric/GotGov/node_modules/react-native/React/Modules/RCTEventEmitter.h \
-  /Users/Eric/GotGov/node_modules/react-native/React/Base/RCTBridge.h \
-  /Users/Eric/GotGov/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
-  /Users/Eric/GotGov/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
-  /Users/Eric/GotGov/node_modules/react-native/React/Base/RCTDefines.h \
-  /Users/Eric/GotGov/node_modules/react-native/React/Base/RCTBridgeModule.h \
-  /Users/Eric/GotGov/node_modules/react-native/React/Base/RCTFrameUpdate.h \
-  /Users/Eric/GotGov/node_modules/react-native/React/Base/RCTInvalidating.h \
-  /Users/Eric/GotGov/node_modules/react-native/React/Base/RCTAssert.h \
-  /Users/Eric/GotGov/node_modules/react-native/React/Base/RCTEventDispatcher.h \
-  /Users/Eric/GotGov/node_modules/react-native/React/Base/RCTUtils.h
+  /Users/yokoref/dev/rnApps/GotGov/node_modules/react-native/React/Modules/RCTAppState.m \
+  /Users/yokoref/dev/rnApps/GotGov/node_modules/react-native/React/Modules/RCTAppState.h \
+  /Users/yokoref/dev/rnApps/GotGov/node_modules/react-native/React/Modules/RCTEventEmitter.h \
+  /Users/yokoref/dev/rnApps/GotGov/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/yokoref/dev/rnApps/GotGov/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/yokoref/dev/rnApps/GotGov/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/yokoref/dev/rnApps/GotGov/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/yokoref/dev/rnApps/GotGov/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/yokoref/dev/rnApps/GotGov/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/yokoref/dev/rnApps/GotGov/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/yokoref/dev/rnApps/GotGov/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/yokoref/dev/rnApps/GotGov/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/yokoref/dev/rnApps/GotGov/node_modules/react-native/React/Base/RCTUtils.h

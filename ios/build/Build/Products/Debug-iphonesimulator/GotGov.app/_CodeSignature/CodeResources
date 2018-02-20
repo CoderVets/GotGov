@@ -50,11 +50,11 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		wCD4O6buwXJ0hXc0+YnaKG28sb8=
+		US1aeA/ti1RJbkzPP6f1j0jyjyU=
 		</data>
 		<key>Base.lproj/LaunchScreen.nib</key>
 		<data>
-		Y1T33ARkc1bp12JxkM0G/ITRJaA=
+		NL7m5Qu0wvRz3k5czVnfxTWqXOg=
 		</data>
 		<key>Frameworks/IDEBundleInjection.framework/IDEBundleInjection</key>
 		<data>
@@ -99,7 +99,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		NI3UPezYPuVN3X8rXmUd1xX8zqs=
+		DT9DYaU3/8D2eyU4hhE+mdcrwgw=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -111,11 +111,11 @@
 		</data>
 		<key>PlugIns/GotGovTests.xctest.dSYM/Contents/Resources/DWARF/GotGovTests</key>
 		<data>
-		+j45JoCP8fteJ93fZL8KDhXnjgE=
+		nJvsw8B+rXJdnbNfS3MMaf+v+uI=
 		</data>
 		<key>PlugIns/GotGovTests.xctest/GotGovTests</key>
 		<data>
-		slVg57uR2cVuHXmSjSkFHPKOhO0=
+		XQ0CvA3rSDP1qwzkNs7Am4Ua4NA=
 		</data>
 		<key>PlugIns/GotGovTests.xctest/Info.plist</key>
 		<data>
@@ -253,22 +253,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			wCD4O6buwXJ0hXc0+YnaKG28sb8=
+			US1aeA/ti1RJbkzPP6f1j0jyjyU=
 			</data>
 			<key>hash2</key>
 			<data>
-			S8YWyaNiI2arh5AUSZM18/Ah7/xd0HYwAafGKrnbD5g=
+			qD9+S83QHdhqx34UXSL5DMkSzZH9FWhYLptiCN5FBs4=
 			</data>
 		</dict>
 		<key>Base.lproj/LaunchScreen.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Y1T33ARkc1bp12JxkM0G/ITRJaA=
+			NL7m5Qu0wvRz3k5czVnfxTWqXOg=
 			</data>
 			<key>hash2</key>
 			<data>
-			KNOvnxWWCDgNe9WLP5YX1ZeAdh8qCiQ8iLu1A7WEmz0=
+			rQEkJO123M8fLcfwBKM+gxs5LRd9P03sxqN5Ja3x9Do=
 			</data>
 		</dict>
 		<key>Frameworks/IDEBundleInjection.framework/IDEBundleInjection</key>
@@ -387,22 +387,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			+j45JoCP8fteJ93fZL8KDhXnjgE=
+			nJvsw8B+rXJdnbNfS3MMaf+v+uI=
 			</data>
 			<key>hash2</key>
 			<data>
-			uOrFZXvsGKXegYO8oKU5S1AL6OwLUXZGMZiL9072pdw=
+			3O/1FxKXZG4QDkOCuFPwSl5Ly4iEdNgiPz0Gh9Erwfc=
 			</data>
 		</dict>
 		<key>PlugIns/GotGovTests.xctest/GotGovTests</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			slVg57uR2cVuHXmSjSkFHPKOhO0=
+			XQ0CvA3rSDP1qwzkNs7Am4Ua4NA=
 			</data>
 			<key>hash2</key>
 			<data>
-			qCSEirGceEjnaE1eeXnul6jp+thNFbqU2vMp9Ppyt3k=
+			iDAuvWmugrhZ9lIYlWywWBnAj4hazcTCdLxy4nUQQa4=
 			</data>
 		</dict>
 		<key>PlugIns/GotGovTests.xctest/Info.plist</key>

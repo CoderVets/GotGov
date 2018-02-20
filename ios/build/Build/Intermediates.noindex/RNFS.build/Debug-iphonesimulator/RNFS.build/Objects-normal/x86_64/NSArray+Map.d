@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/Eric/GotGov/node_modules/react-native-fs/NSArray+Map.m \
-  /Users/Eric/GotGov/node_modules/react-native-fs/NSArray+Map.h
+  /Users/yokoref/dev/rnApps/GotGov/node_modules/react-native-fs/NSArray+Map.m \
+  /Users/yokoref/dev/rnApps/GotGov/node_modules/react-native-fs/NSArray+Map.h

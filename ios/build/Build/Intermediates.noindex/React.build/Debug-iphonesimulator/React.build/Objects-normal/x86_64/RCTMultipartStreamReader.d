@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/Eric/GotGov/node_modules/react-native/React/Base/RCTMultipartStreamReader.m \
-  /Users/Eric/GotGov/node_modules/react-native/React/Base/RCTMultipartStreamReader.h
+  /Users/yokoref/dev/rnApps/GotGov/node_modules/react-native/React/Base/RCTMultipartStreamReader.m \
+  /Users/yokoref/dev/rnApps/GotGov/node_modules/react-native/React/Base/RCTMultipartStreamReader.h

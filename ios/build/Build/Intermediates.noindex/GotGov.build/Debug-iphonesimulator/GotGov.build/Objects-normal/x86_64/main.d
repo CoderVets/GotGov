@@ -1,2 +1,2 @@
-dependencies: /Users/Eric/GotGov/ios/GotGov/main.m \
-  /Users/Eric/GotGov/ios/GotGov/AppDelegate.h
+dependencies: /Users/yokoref/dev/rnApps/GotGov/ios/GotGov/main.m \
+  /Users/yokoref/dev/rnApps/GotGov/ios/GotGov/AppDelegate.h

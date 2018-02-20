@@ -76,7 +76,7 @@ export default class GoogleCivicAPI extends Component {
           )}
         />
       </View>
-      
+
     );
   }
 }
