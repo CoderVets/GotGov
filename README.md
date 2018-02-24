@@ -29,7 +29,7 @@ react-native run-ios
 Note that you need a Mac computer to run this command.
 
 Android
-Make sure you have an emulator running for Android. Within the directory arrive-alive/AA_app run:
+Make sure you have an emulator running for Android. Within the directory GotGov run:
 
 react-native run-android
 Problems
